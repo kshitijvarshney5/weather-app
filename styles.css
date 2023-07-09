@@ -1,0 +1,19 @@
+#city-input, #weather-output {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+.banner {
+    color: #FFD23F;
+    font-family: sans-serif;
+}
+main {
+    
+    background-image: url("https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?cs=srgb&dl=pexels-johannes-plenio-1118873.jpg&fm=jpg");
+    /* background-color: #f7f3f3; */
+    background-size:contain;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height:120vh
+    
+   }
